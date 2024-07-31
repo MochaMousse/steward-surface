@@ -1,7 +1,6 @@
 package cc.mousse.steward.surface.util;
 
 import cc.mousse.steward.surface.Application;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URI;
@@ -12,7 +11,7 @@ import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 
 /**
- * @author PhineasZ
+ * @author MochaMousse
  */
 public class NetUtil {
   private NetUtil() {}

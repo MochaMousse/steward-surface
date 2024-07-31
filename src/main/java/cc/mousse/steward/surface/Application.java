@@ -17,7 +17,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import org.mineskin.data.Texture;
 
 /**
- * @author PhineasZ
+ * @author MochaMousse
  */
 public final class Application extends JavaPlugin implements Listener {
   public static final String PLUGIN_NAME = "steward-surface";

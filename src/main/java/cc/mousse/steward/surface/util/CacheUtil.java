@@ -14,7 +14,7 @@ import java.util.Map;
 import org.mineskin.data.Texture;
 
 /**
- * @author PhineasZ
+ * @author MochaMousse
  */
 public class CacheUtil {
   private static File cache;

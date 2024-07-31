@@ -1,11 +1,10 @@
 package cc.mousse.steward.surface.util;
 
 import cc.mousse.steward.surface.Application;
-
 import java.util.logging.Logger;
 
 /**
- * @author PhineasZ
+ * @author MochaMousse
  */
 public class LogUtil {
   private static final Logger SERVER_LOG = Application.getInstance().getLogger();

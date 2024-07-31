@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * @author PhineasZ
+ * @author MochaMousse
  */
 public class StrUtil {
   private StrUtil() {}

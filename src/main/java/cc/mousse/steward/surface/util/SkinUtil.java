@@ -23,7 +23,7 @@ import org.mineskin.data.Skin;
 import org.mineskin.data.Texture;
 
 /**
- * @author PhineasZ
+ * @author MochaMousse
  */
 public class SkinUtil {
   private SkinUtil() {}

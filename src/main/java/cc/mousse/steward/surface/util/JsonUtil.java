@@ -4,7 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
 /**
- * @author PhineasZ
+ * @author MochaMousse
  */
 public class JsonUtil {
   private static final Gson GSON = new Gson();
